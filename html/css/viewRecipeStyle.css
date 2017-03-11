@@ -1,0 +1,23 @@
+div.item{
+	width:96%;
+	background-color:#efefef;
+	padding-left:2%;
+	padding-right:2%;
+	
+	margin-bottom:20px;
+	margin-top:20px;
+}
+div.item:hover { 
+    background-color: #dbdbdb;
+}
+.item>h3{
+	font-family:Impact, Charcoal, sans-serif;
+	font-size:3em;
+	margin-top:0px;
+	margin-bottom:0px;
+}
+.item>p{
+	font-size:1.5em;
+	margin-top:0px;
+	margin-bottom:0px;
+}
